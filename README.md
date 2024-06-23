@@ -1,2 +1,1 @@
-Required Packages:
-Numpy, Matplotlib, json, pandas
+Required Packages: Numpy, Matplotlib, json, pandas
